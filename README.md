@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/maxbarsukov)
 
 
-Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 years old** 👶🏻 and **2 years of coding** 🧐
+Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 years old** 👶 and **2 years of coding** 🧐
 , but you can call me **Max**.
 
 **A book lover** 📕, **an amateur astronomer** 🌟 and a good **video-game player** 🎮 and **TES** 🗡 fan.
@@ -42,7 +42,3 @@ Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 yea
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
 [![All Stats](https://github-readme-stats.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/maxbarsukov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact)](https://github.com/maxbarsukov/github-readme-stats)
-
-<a href="https://github.com/maxbarsukov/maxbarsukov.github.io">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxbarsukov&repo=maxbarsukov.github.io" />
-</a>
