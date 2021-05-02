@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.github.io)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!--
-**maxbarsukov/maxbarsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Get in touch:**
+[![Linkedin Badge](https://img.shields.io/badge/-Maxim_Barsukov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.cn/in/maxim-barsukov-998538211/)](https://www.linkedin.cn/in/maxim-barsukov-998538211/)
+[![Github Badge](https://img.shields.io/badge/-maxbarsukov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxbarsukov/)](https://github.com/maxbarsukov/)
+[![VK Badge](https://img.shields.io/badge/-maxbarsukov-4c75a3?style=flat&logo=vk&logoColor=white&link=https://vk.com/maxbarsukov)](https://vk.com/maxbarsukov)
+[![Telegram Badge](https://img.shields.io/badge/-Max_Barsukov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
+[![Discord Badge](https://img.shields.io/badge/-nyapsilon-7289da?style=flat&logo=discord&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
+![Profile views](https://gpvc.arturio.dev/maxbarsukov)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 years old** 👶🏻 and **2 years of coding** 🧐
+, but you can call me **Max**.
+
+**A book lover** 📕, **an amateur astronomer** 🌟 and a good **video-game player** 🎮 and **TES** 🗡 fan.
+
+* 🌱 I’m currently learning **Ruby** 💎 and **Rails** 🚈
+* ✏ Weekly writer and translator on habr.com, [**follow me**](https://habr.com/ru/users/maxbarsukov/).
+* 💫 Always aiming at **usability** and **code performance** at all costs.
+* 👽 Learning any tecnology that apears on my way.
+* 🛹 Also surfing on microcontrollers stuff.
+* 🤓 I'm Vim fan (a.k.a. evangelist)
+* 🏆 I'm an avid improver. Continuously learning how to make the world better.
+* 💬 Ask me about anything [**here**](https://github.com/maxbarsukov/maxbarsukov/issues)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
+[![All Stats](https://github-readme-stats.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/maxbarsukov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact)](https://github.com/maxbarsukov/github-readme-stats)
+
+<a href="https://github.com/maxbarsukov/maxbarsukov.github.io">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maxbarsukov&repo=maxbarsukov.github.io" />
+</a>
