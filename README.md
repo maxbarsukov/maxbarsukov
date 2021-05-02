@@ -15,13 +15,14 @@ Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 yea
 **A book lover** 📕, **an amateur astronomer** 🌟 and a good **video-game player** 🎮 and **TES** 🗡 fan.
 
 * 🌱 I’m currently learning **Ruby** 💎 and **Rails** 🚈
-* ✏ Weekly writer and translator on habr.com, [**follow me**](https://habr.com/ru/users/maxbarsukov/).
+* 🖊️ Weekly writer and translator on [habr.com](https://habr.com), [**follow me**](https://habr.com/ru/users/maxbarsukov/).
 * 💫 Always aiming at **usability** and **code performance** at all costs.
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
-* 🤓 I'm Vim fan (a.k.a. evangelist)
-* 🏆 I'm an avid improver. Continuously learning how to make the world better.
-* 💬 Ask me about anything [**here**](https://github.com/maxbarsukov/maxbarsukov/issues)
+* 🤓 *Vim* & *Neovim* fan (a.k.a. evangelist)
+* 🔥 I'm an avid improver. Continuously learning how to make the world better.
+* 🏆 You can view my resume [**here**](https://maxbarsukov.github.io)
+* 💬 Ask me about anything in [**issues**](https://github.com/maxbarsukov/maxbarsukov/issues) under this repo
 
 **Languages and Tools:**
 
@@ -41,4 +42,4 @@ Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 yea
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
 [![All Stats](https://github-readme-stats.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/maxbarsukov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact)](https://github.com/maxbarsukov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact&langs_count=6)](https://github.com/maxbarsukov/github-readme-stats)
