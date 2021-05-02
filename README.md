@@ -40,6 +40,7 @@ Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 yea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github
+<!-- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github -->
+## View my stats on Github
 [![All Stats](https://github-readme-stats.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/maxbarsukov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact&langs_count=6)](https://github.com/maxbarsukov/github-readme-stats)
