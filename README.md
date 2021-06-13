@@ -6,7 +6,7 @@
 [![VK Badge](https://img.shields.io/badge/-maxbarsukov-4c75a3?style=flat&logo=vk&logoColor=white&link=https://vk.com/maxbarsukov)](https://vk.com/maxbarsukov)
 [![Telegram Badge](https://img.shields.io/badge/-Max_Barsukov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
 [![Discord Badge](https://img.shields.io/badge/-nyapsilon-7289da?style=flat&logo=discord&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
-![Profile views](https://gpvc.arturio.dev/maxbarsukov)
+![Profile views](https://komarev.com/ghpvc/?username=maxbarsukov)
 
 
 Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 years old** 👶 and **2 years of coding** 🧐
