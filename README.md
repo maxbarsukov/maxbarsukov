@@ -21,7 +21,7 @@ Hi, I'm Maxim, a passionate self-taught developer from Russia 🇷🇺, **16 yea
 * 🛹 Also surfing on microcontrollers stuff.
 * 🤓 *Vim* & *Neovim* fan (a.k.a. evangelist)
 * 🔥 I'm an avid improver. Continuously learning how to make the world better.
-* 🏆 You can view my resume [**here**](https://maxbarsukov.github.io)
+* 🏆 You can view my resume [**here**](https://maxbarsukov.netlify.app/)
 * 💬 Ask me about anything in [**issues**](https://github.com/maxbarsukov/maxbarsukov/issues) under this repo
 
 **Languages and Tools:**
