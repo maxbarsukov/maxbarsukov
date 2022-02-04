@@ -2,17 +2,15 @@
 
 **Get in touch:**
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Maxim_Barsukov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.cn/in/maxim-barsukov-998538211/)](https://www.linkedin.cn/in/maxim-barsukov-998538211/)
+[![Linkedin Badge](https://img.shields.io/badge/-Max_Barsukov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxbarsukov/)](https://www.linkedin.com/in/maxbarsukov/)
 [![Github Badge](https://img.shields.io/badge/-maxbarsukov-grey?style=flat&logo=github&logoColor=white&link=https://github.com/maxbarsukov/)](https://github.com/maxbarsukov/)
 [![VK Badge](https://img.shields.io/badge/-maxbarsukov-4c75a3?style=flat&logo=vk&logoColor=white&link=https://vk.com/maxbarsukov)](https://vk.com/maxbarsukov)
 <br/>
 [![Telegram Badge](https://img.shields.io/badge/-Max_Barsukov-0088cc?style=flat&logo=telegram&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
-[![Discord Badge](https://img.shields.io/badge/-nyapsilon-7289da?style=flat&logo=discord&logoColor=white&link=https://t.me/maxbarsukov)](https://t.me/maxbarsukov)
+[![Discord Badge](https://img.shields.io/badge/-nyapsilon-7289da?style=flat&logo=discord&logoColor=white&link=https://discordapp.com/users/nyapsilon#7581)](https://discordapp.com/users/nyapsilon#7581)
 ![Profile views](https://komarev.com/ghpvc/?username=maxbarsukov)
 
 Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **17 years old** 👶 and **2 years of coding** 🧐.
-
-**A book lover** 📕, **an amateur astronomer** 🌟 and a good **video-game player** 🎮 and **TES** 🗡 fan.
 
 * 🌱 I’m currently learning **Ruby** 💎 and **Rails** 🚈
 * 🖊️ Weekly writer and translator on [habr.com](https://habr.com), [**follow me**](https://habr.com/ru/users/maxbarsukov/).
