@@ -19,7 +19,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **17 y
 * 🌱 I’m currently learning **Ruby** 💎 and **Rails** 🚈
 * 🖊️ Weekly writer and translator on [habr.com](https://habr.com), [**follow me**](https://habr.com/ru/users/maxbarsukov/).
 * 💫 Always aiming at **usability** and **code performance** at all costs.
-* 👽 Learning any tecnology that apears on my way.
+* 👽 Learning any technology that appears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
 * 🤓 *Vim* & *Neovim* fan (a.k.a. evangelist)
 * 🔥 I'm an avid improver. Continuously learning how to make the world better.
