@@ -1,4 +1,4 @@
-# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.github.io)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.github.io)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 ### Get in touch: <span align="left">
 <a href="https://twitter.com/nyapsilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: nyapsilon" height="20" width="30" /></a>
