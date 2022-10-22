@@ -14,7 +14,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=maxbarsukov&style=flat-square)
 
-Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **17 years old** 👶 and **2 years of coding** 🧐.
+Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **18 years old** 👶 and **3 years of coding** 🧐.
 
 * 🌱 I’m currently learning **Ruby** 💎 and **Rails** 🚈
 * 🖊️ Weekly writer and translator on [habr.com](https://habr.com), [**follow me**](https://habr.com/ru/users/maxbarsukov/).
