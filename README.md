@@ -1,4 +1,4 @@
-# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.github.io)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
+# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.vercel.app)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 ### Get in touch: <span align="left">
 <a href="https://twitter.com/nyapsilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: nyapsilon" height="20" width="30" /></a>
@@ -130,6 +130,6 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **18 y
 <!-- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github -->
 ## View my stats on Github
 
-| <img align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&private=true&hide_border=true" alt="All Stats" /> | <img align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" /> |
+| <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&private=true&hide_border=true" alt="All Stats" /> | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
 
