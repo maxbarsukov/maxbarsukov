@@ -178,18 +178,6 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <img src="" alt="Tools Section" width="26" height="26" />
       </p>
     </td> -->
-    <td align="center">
-      <p align="center">
-        <!-- Editors -->
-        <img src="https://cdn-icons-png.flaticon.com/512/2015/2015653.png" alt="Editors Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- Other -->
-        <img src="https://cdn-icons-png.flaticon.com/512/1782/1782753.png" alt="Other Section" width="26" height="26" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -620,6 +608,91 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
       </p>
     </td>
+<!--     <td align="center">
+      <p align="center">
+      add Elm, ReasonML, ...
+        <!-- CSS -=->
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="26" height="26" />
+        </a><br>
+        <!-- HTML -=->
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="26" height="26" />
+        </a><br>
+        <!-- React.js -=->
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="26" height="26" />
+        </a><br>
+        <!-- Redux -=->
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+      </p>
+    </td> -->
+<!--     <td align="center">
+      <p align="center">
+        <!-- GitHub -=->
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github-actions" width="26" height="26" />
+        </a><br>
+        <!-- Travis CI -=->
+        <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="26" height="26" />
+        </a><br>
+        <!-- Git -=->
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26" height="26" />
+        </a><br>
+        <!-- Docker -=->
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="26" height="26" />
+        </a><br>
+        <!-- Nginx -=->        
+        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="26" height="26" />
+        </a><br>
+        <!-- Bash -=->
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26" height="26" />
+        </a><br>
+        <!-- Linux -=->
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="26" height="26" />
+        </a><br>
+      </p>
+    </td> -->
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <p align="center">
+        <!-- Editors -->
+        <img src="https://cdn-icons-png.flaticon.com/512/2015/2015653.png" alt="Editors Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- Other -->
+        <img src="https://cdn-icons-png.flaticon.com/512/1782/1782753.png" alt="Other Section" width="26" height="26" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <p align="center">
         <!-- VS Code -->
@@ -772,73 +845,9 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
       </p>
     </td>
-<!--     <td align="center">
-      <p align="center">
-      add Elm, ReasonML, ...
-        <!-- CSS -=->
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="26" height="26" />
-        </a><br>
-        <!-- HTML -=->
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="26" height="26" />
-        </a><br>
-        <!-- React.js -=->
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="26" height="26" />
-        </a><br>
-        <!-- Redux -=->
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-      </p>
-    </td> -->
-<!--     <td align="center">
-      <p align="center">
-        <!-- GitHub -=->
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github-actions" width="26" height="26" />
-        </a><br>
-        <!-- Travis CI -=->
-        <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="26" height="26" />
-        </a><br>
-        <!-- Git -=->
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26" height="26" />
-        </a><br>
-        <!-- Docker -=->
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="26" height="26" />
-        </a><br>
-        <!-- Nginx -=->        
-        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="26" height="26" />
-        </a><br>
-        <!-- Bash -=->
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26" height="26" />
-        </a><br>
-        <!-- Linux -=->
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="26" height="26" />
-        </a><br>
-      </p>
-    </td> -->
   </tr>
 </table>
+
 
 </details>
 
