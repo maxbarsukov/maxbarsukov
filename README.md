@@ -130,70 +130,89 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
 
 <table>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
       <p align="center">
         <!-- Ruby -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ruby/ruby-plain.svg" alt="Ruby Section" width="26" height="26" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ruby/ruby-plain.svg" alt="Ruby Section" width="26" height="26" /> <b>Ruby</b>
       </p>
     </td>
-    <td colspan="3" align="center">
-      <p align="center">
-        <!-- Java -->
-        <img src="https://raw.githubusercontent.com/xandemon/developer-icons/9ce20bbef55e0a1deef92a96d8590ec12d132cec/icons/java.svg" alt="Java Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- PHP -->
-        <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php3.svg" alt="PHP Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- JS -->
-        <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/javascript.svg" alt="JS Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- Databases -->
-        <img src="https://cdn-icons-png.flaticon.com/512/1104/1104982.png" alt="Databases Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- API -->
-        <img src="https://cdn-icons-png.flaticon.com/512/8297/8297437.png" alt="API Section" width="26" height="26" />
-      </p>
-    </td>
-<!--     <td align="center">
-      <p align="center">
-        <!-- Web -=->
-        <img src="" alt="Web Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- Tools -=->
-        <img src="" alt="Tools Section" width="26" height="26" />
-      </p>
-    </td> -->
   </tr>
   <tr>
     <td align="center">
       <p align="center">
         <!-- Ruby -->
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="26" height="26" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="💖 Ruby is... A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write." alt="ruby" width="26" height="26" />
         </a><br>
+        <!-- JRuby -->
+        <a href="https://www.jruby.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/jruby/jruby.github.io/master/images/android-chrome-192x192.png" title="🐦 JRuby, an implementation of Ruby on the JVM." alt="JRuby" width="26" height="26" />
+        </a>
+        <!-- Rubinius -->
+        <a href="https://rubinius.com/about/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/317747?s=200&v=4" title="💎 Rubinius is an open-source project created by Evan Phoenix in 2006, as an experiment to use the Smalltalk-80 virtual machine design to implement the Ruby programming language. Since its creation, Rubinius has implemented several major versions of Ruby along with advances in technology like a bytecode-based virtual machine, generational garbage collection, just-in-time compilation, and full concurrency support with no global interpreter lock. Over time, Ruby itself has gained many of these features." alt="Rubinius" width="26" height="26" />
+        </a>
+        <!-- TruffleRuby -->
+        <a href="https://www.graalvm.org/ruby/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/oracle/truffleruby/master/logo/png/truffleruby_logo_notext_small.png" title="🚀 TruffleRuby, a high performance implementation of the Ruby programming language, built on GraalVM." alt="TruffleRuby" width="26" height="26" />
+        </a>
+        <!-- Opal -->
+        <a href="https://opalrb.com/" target="_blank" rel="noreferrer">
+          <img src="https://secure.gravatar.com/avatar/88298620949a6534d403da2e356c9339?s=420" title="Ruby 💛 JavaScript&#10;&#13Opal is a Ruby to JavaScript source-to-source compiler.&#10;It comes packed with the Ruby corelib you know and love.&#10;It is both fast as a runtime and small in its footprint." alt="Opal" width="26" height="26" />
+        </a>
+        <br>
+        <!-- Puma -->
+        <a href="https://puma.io/" target="_blank" rel="noreferrer">
+          <img src="https://puma.io/images/icons/puma-favicon-large.png" title="🐆 Puma, a Ruby/Rack web server built for parallelism." alt="Puma" width="26" height="26" />
+        </a>
+        <!-- Falcon -->
+        <a href="https://socketry.github.io/falcon/" target="_blank" rel="noreferrer">
+          <img src="https://socketry.github.io/falcon/assets/logo.webp" title="𓅃 Falcon is a multi-process, multi-fiber rack-compatible HTTP server built on top of async, async-container and async-http.&#10;Each request is executed within a lightweight fiber and can block on up-stream requests without stalling the entire server process.&#10;Falcon supports HTTP/1 and HTTP/2 natively." alt="Falcon" width="26" height="26" />
+        </a>
+        <!-- Phusion Passenger -->
+        <a href="https://www.phusionpassenger.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.phusionpassenger.com/assets/octo2017/header/passenger_logo-00d03256de6df0c31291687257dd0350cf54c2118008146334ee8931217f16af.svg" title="🤖 Phusion Passenger, fast and robust web server and application server.
+" alt="Phusion Passenger" width="26" height="26" />
+        </a>
+        <!-- Agoo -->
+        <a href="https://www.ohler.com/agoo/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/ohler55/agoo/ae721464b024f1bb84ba627a733097242820118b/misc/agoo_128.svg" title="🐟 Agoo, a High Performance HTTP Server for Ruby" alt="Agoo" width="26" height="26" />
+        </a>
+        <br>
         <!-- Rails -->
         <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="26" height="26" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" title="🛤 Ruby on Rails is a web-application framework that includes E V E R Y T H I N G needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern." alt="Rails" width="26" height="26" />
         </a>
         <!-- Hanami -->
         <a href="https://hanamirb.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/3210273?s=200&v=4" alt="Hanami" width="26" height="26" />
-        </a><br>
+          <img src="https://avatars.githubusercontent.com/u/3210273?s=200&v=4" title="🌸 Hanami aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects." alt="Hanami" width="26" height="26" />
+        </a>
+        <!-- Trailblazer -->
+        <a href="https://trailblazer.to/2.1/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/trailblazer/website-24/main/app/assets/images/favicon.ico" title="🌠 Trailblazer is a thin layer on top of Rails.&#10;&#13;It gently enforces encapsulation, an intuitive code structure and gives you an object-oriented architecture." alt="Trailblazer" width="26" height="26" />
+        </a>
+        <!-- Camping -->
+        <a href="https://github.com/camping/camping" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/117905?s=200&v=4" title="⛺️ Camping, the 5k pocket full-of-gags web framework." alt="Camping" width="26" height="26" />
+        </a>
+        <br>
+        <!-- Sinatra -->
+        <a href="https://sinatrarb.com/" target="_blank" rel="noreferrer">
+          <img src="https://sinatrarb.com/images/logo.png" title="🎩 Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort." alt="Sinatra" width="26" height="26" />
+        </a>
+        <!-- Padrino -->
+        <a href="https://padrinorb.com/" target="_blank" rel="noreferrer">
+          <img src="https://padrinorb.com/images/logo-6475397a.svg" title="🤵 Padrino is a Ruby web framework built upon the Sinatra web library.&#10;&#13;Padrino was created to make it fun and easy to code more advanced web applications while still adhering to the spirit that makes Sinatra great!" alt="Padrino" width="26" height="26" />
+        </a>
+        <!-- Cuba -->
+        <a href="https://cuba.is/" target="_blank" rel="noreferrer">
+          <img src="https://www.freepnglogos.com/uploads/red-star-png/red-star-introduction-21.png" title="★ Ceci n'est pas un framework.&#10;&#13;Rum based microframework for web development." alt="Cuba" width="26" height="26" />
+        </a>
+        <!-- Roda -->
+        <a href="https://roda.jeremyevans.net/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/jeremyevans/roda/90c74dcdcdd8d865e85efd9a30defe0c65e1a6c3/www/public/images/roda-logo.svg" title="🔀 Roda, a routing tree web toolkit, designed for building fast and maintainable web applications in Ruby." alt="Roda" width="26" height="15" />
+        </a>
+        <br>
         <!-- RSpec -->
         <a href="https://rspec.info/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" width="26" height="26" />
@@ -214,12 +233,68 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://karafka.io/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/karafka/misc/master/logo/karafka_logotype_transparent.png" alt="Karafka" width="26" height="26" />
         </a>
+        <!-- ActiveAdmin -->
+        <a href="https://activeadmin.info/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/814570?s=200&v=4" alt="ActiveAdmin" width="26" height="26" />
+        </a><br>
         <!-- AnyCable -->
         <a href="https://anycable.io/" target="_blank" rel="noreferrer">
-          <img src="https://docs.anycable.io/assets/images/logo.svg" alt="AnyCable" width="26" height="26" />
+          <img src="https://docs.anycable.io/assets/images/logo.svg" title="🔌 AnyCable, a polyglot replacement for Ruby WebSocket servers with Action Cable protocol.&#10;Realtime server for reliable two-way communication." alt="AnyCable" width="26" height="26" />
+        </a>
+        <!-- StimulusReflex -->
+        <a href="https://docs.stimulusreflex.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/stimulusreflex/stimulus_reflex/main/assets/stimulus-reflex-logo.png" title="✨ StimulusReflex - Build reactive applications with the Rails tooling you already know and love." alt="StimulusReflex" width="26" height="26" />
+        </a>
+        <!-- Faye -->
+        <a href="https://faye.jcoglan.com/" target="_blank" rel="noreferrer">
+          <img src="https://faye.jcoglan.com/images/faye-logo.gif" title="🔄 Faye is a publish-subscribe messaging system based on the Bayeux protocol. It provides message servers for Ruby, and clients for use on the server and in all major web browsers." alt="Faye" width="26" height="15" />
+        </a>
+        <br>
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- CoffeeScript -->
+        <a href="https://coffeescript.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeescript.svg" alt="CoffeeScript" width="26" height="26" />
+        </a>
+        <!-- CoffeeLint -->
+        <a href="https://coffeelint.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeelint.svg" alt="CoffeeLint" width="26" height="26" />
+        </a><br>
+        <!-- ERB -->
+        <a href="https://docs.ruby-lang.org/en/master/ERB.html" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_erb.svg" alt="ERB" width="26" height="26" />
+        </a>
+        <!-- Liquid -->
+        <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_liquid.svg" alt="Liquid" width="26" height="26" />
+        </a><br>
+        <!-- Haml -->
+        <a href="https://haml.info/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_haml.svg" alt="Haml" width="26" height="26" />
+        </a>
+        <!-- Slim -->
+        <a href="https://slim-template.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_slim.svg" alt="Slim" width="26" height="26" />
         </a><br>
       </p>
     </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <p align="center">
+        <!-- Java -->
+        <img src="https://raw.githubusercontent.com/xandemon/developer-icons/9ce20bbef55e0a1deef92a96d8590ec12d132cec/icons/java.svg" alt="Java Section" width="26" height="26" /> <b>Java</b>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <p align="center">
         <!-- Java -->
@@ -420,6 +495,39 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a><br>
       </p>
     </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <p align="center">
+        <!-- PHP -->
+        <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_php3.svg" alt="PHP Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- JS -->
+        <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/javascript.svg" alt="JS Section" width="26" height="26" />
+      </p>
+    </td>
+<!--     <td align="center">
+      <p align="center">
+        <!-- Web -=->
+        <img src="" alt="Web Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- Tools -=->
+        <img src="" alt="Tools Section" width="26" height="26" />
+      </p>
+    </td> -->
+  </tr>
+  <tr>
     <td align="center">
       <p align="center">
         <!-- PHP -->
@@ -512,6 +620,104 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a> -->
       </p>
     </td>
+<!--     <td align="center">
+      <p align="center">
+      add Elm, ReasonML, ...
+        <!-- CSS -=->
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="26" height="26" />
+        </a><br>
+        <!-- HTML -=->
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="26" height="26" />
+        </a><br>
+        <!-- React.js -=->
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="26" height="26" />
+        </a><br>
+        <!-- Redux -=->
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+        <!-- MUI -=->
+        <a href="https://mui.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
+        </a><br>
+      </p>
+    </td> -->
+<!--     <td align="center">
+      <p align="center">
+        <!-- GitHub -=->
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github-actions" width="26" height="26" />
+        </a><br>
+        <!-- Travis CI -=->
+        <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="26" height="26" />
+        </a><br>
+        <!-- Git -=->
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26" height="26" />
+        </a><br>
+        <!-- Docker -=->
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="26" height="26" />
+        </a><br>
+        <!-- Nginx -=->        
+        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="26" height="26" />
+        </a><br>
+        <!-- Bash -=->
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26" height="26" />
+        </a><br>
+        <!-- Linux -=->
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="26" height="26" />
+        </a><br>
+      </p>
+    </td> -->
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <p align="center">
+        <!-- Databases -->
+        <img src="https://cdn-icons-png.flaticon.com/512/1104/1104982.png" alt="Databases Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- API -->
+        <img src="https://cdn-icons-png.flaticon.com/512/8297/8297437.png" alt="API Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- Editors -->
+        <img src="https://cdn-icons-png.flaticon.com/512/2015/2015653.png" alt="Editors Section" width="26" height="26" />
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!-- Other -->
+        <img src="https://cdn-icons-png.flaticon.com/512/1782/1782753.png" alt="Other Section" width="26" height="26" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <p align="center">
         <!-- PostgreSQL -->
@@ -608,91 +814,6 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
       </p>
     </td>
-<!--     <td align="center">
-      <p align="center">
-      add Elm, ReasonML, ...
-        <!-- CSS -=->
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="26" height="26" />
-        </a><br>
-        <!-- HTML -=->
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="26" height="26" />
-        </a><br>
-        <!-- React.js -=->
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="26" height="26" />
-        </a><br>
-        <!-- Redux -=->
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-        <!-- MUI -=->
-        <a href="https://mui.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="26" height="26" />
-        </a><br>
-      </p>
-    </td> -->
-<!--     <td align="center">
-      <p align="center">
-        <!-- GitHub -=->
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github-actions" width="26" height="26" />
-        </a><br>
-        <!-- Travis CI -=->
-        <a href="https://travis-ci.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travis-ci" width="26" height="26" />
-        </a><br>
-        <!-- Git -=->
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="26" height="26" />
-        </a><br>
-        <!-- Docker -=->
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="26" height="26" />
-        </a><br>
-        <!-- Nginx -=->        
-        <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="26" height="26" />
-        </a><br>
-        <!-- Bash -=->
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="26" height="26" />
-        </a><br>
-        <!-- Linux -=->
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" width="26" height="26" />
-        </a><br>
-      </p>
-    </td> -->
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td align="center">
-      <p align="center">
-        <!-- Editors -->
-        <img src="https://cdn-icons-png.flaticon.com/512/2015/2015653.png" alt="Editors Section" width="26" height="26" />
-      </p>
-    </td>
-    <td align="center">
-      <p align="center">
-        <!-- Other -->
-        <img src="https://cdn-icons-png.flaticon.com/512/1782/1782753.png" alt="Other Section" width="26" height="26" />
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <p align="center">
         <!-- VS Code -->
