@@ -130,7 +130,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
 
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="3" align="center">
       <p align="center">
         <!-- Ruby -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ruby/ruby-plain.svg" alt="Ruby Section" width="20" height="20" /> <b>Ruby</b>
@@ -143,7 +143,20 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <!-- Ruby -->
         <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="💖 Ruby is... A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write." alt="ruby" width="26" height="26" />
-        </a><br>
+        </a><br><br>
+        <!-- RBS -->
+        <a href="https://github.com/ruby/rbs" target="_blank" rel="noreferrer">
+          <img src="https://freepngimg.com/thumb/gemstone/176801-gemstone-pic-ruby-red-download-hq-thumb.png" alt="RBS" title="🔻 Type Signature for Ruby" width="26" height="26" />
+        </a>
+        <!-- Sorbet -->
+        <a href="https://sorbet.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/46383129?s=100&v=4" alt="Sorbet" title="🍧 Sorbet gives your Ruby development environment IDE-like features, including autocomplete, in-editor documentation, and go to definition." width="26" height="26" />
+        </a>
+        <!-- tapioca -->
+        <a href="https://github.com/Shopify/tapioca" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/Shopify/tapioca/d8015f47c9ebeaab9d28e8df5d884a74a69926ea/misc/tapioca-logo.svg" alt="tapioca" title="🥤 The swiss army knife of RBI generation." width="26" height="26" />
+        </a>
+        <br><br>
         <!-- JRuby -->
         <a href="https://www.jruby.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/jruby/jruby.github.io/master/images/android-chrome-192x192.png" title="🐦 JRuby, an implementation of Ruby on the JVM." alt="JRuby" width="26" height="26" />
@@ -160,6 +173,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://opalrb.com/" target="_blank" rel="noreferrer">
           <img src="https://secure.gravatar.com/avatar/88298620949a6534d403da2e356c9339?s=420" title="Ruby 💛 JavaScript&#10;&#13Opal is a Ruby to JavaScript source-to-source compiler.&#10;It comes packed with the Ruby corelib you know and love.&#10;It is both fast as a runtime and small in its footprint." alt="Opal" width="26" height="26" />
         </a>
+        <br>
         <br>
         <!-- Puma -->
         <a href="https://puma.io/" target="_blank" rel="noreferrer">
@@ -178,6 +192,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://www.ohler.com/agoo/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/ohler55/agoo/ae721464b024f1bb84ba627a733097242820118b/misc/agoo_128.svg" title="🐟 Agoo, a High Performance HTTP Server for Ruby" alt="Agoo" width="26" height="26" />
         </a>
+        <br>
         <br>
         <!-- Rails -->
         <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer">
@@ -213,9 +228,22 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
           <img src="https://raw.githubusercontent.com/jeremyevans/roda/90c74dcdcdd8d865e85efd9a30defe0c65e1a6c3/www/public/images/roda-logo.svg" title="🔀 Roda, a routing tree web toolkit, designed for building fast and maintainable web applications in Ruby." alt="Roda" width="26" height="15" />
         </a>
         <br>
-        <!--Grape  -->
-        <a href="https://www.ruby-grape.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/13624553?s=200&v=4" alt="Grape" title="🍇 An opinionated micro-framework for creating REST-like APIs in Ruby." width="26" height="26" />
+        <br>
+        <!-- Sequel -->
+        <a href="https://sequel.jeremyevans.net/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/jeremyevans/sequel/gh-pages/images/favicon.ico" alt="Sequel" title="🎥 Sequel: The Database Toolkit for Ruby" width="26" height="26" />
+        </a>
+        <!-- rom-rb -->
+        <a href="https://rom-rb.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/4589832?s=100&v=4" alt="rom-rb" title="💾 Data mapping and persistence toolkit for Ruby" width="26" height="26" />
+        </a>
+        <!-- scenic -->
+        <a href="https://github.com/scenic-views/scenic" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/45371432?s=100&v=4" alt="scenic" title="🏞️ Versioned database views for Rails" width="26" height="26" />
+        </a>
+        <!-- activegraph -->
+        <a href="http://neo4jrb.io/" target="_blank" rel="noreferrer">
+          <img src="http://neo4jrb.io/favicon.png" alt="activegraph" title="💞 An active model wrapper for the Neo4j Graph Database for Ruby." width="26" height="26" />
         </a><br>
         <!-- dry-rb -->
         <a href="https://github.com/dry-rb" target="_blank" rel="noreferrer">
@@ -224,14 +252,14 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <!-- smart-rb -->
         <a href="https://github.com/smart-rb" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/59410372?s=100&v=4" alt="smart-rb" title="🤓 SmartCore - a set of common abstractions and principles, realized in scope of Ruby, DDD and Clean Architecture." width="26" height="26" />
-        </a><br>
-        <!-- active_analytics -->
-        <a href="https://github.com/BaseSecrete/active_analytics" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/BaseSecrete/active_analytics/master/app/assets/images/active_analytics.png" alt="active_analytics" title="📊 First-party, privacy-focused traffic analytics for Ruby on Rails applications." width="26" height="26" />
-        </a><br>
-        <!-- trestle -->
-        <a href="https://trestle.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars3.githubusercontent.com/u/29348992?v=3&s=100" alt="trestle" title="🌉 A modern, responsive admin framework for Ruby on Rails" width="26" height="26" />
+        </a>
+        <!-- memo_wise -->
+        <a href="https://github.com/panorama-ed/memo_wise" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/panorama-ed/memo_wise/c8904fb1279ae2528ccc3a619253785a39b69e66/logo/logo.png" alt="memo_wise" title="🦉 The wise choice for Ruby memoization." width="26" height="26" />
+        </a>
+        <!-- hashie -->
+        <a href="https://github.com/hashie/hashie" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/hashie/hashie/d07b2a3a9fcb22e11a7af0fb19b436fa673dd5fe/mascot.svg" alt="hashie" title="🐷 Hashie is a collection of classes and mixins that make Ruby hashes more powerful." width="26" height="26" />
         </a><br>
         <!-- blueprinter -->
         <a href="https://github.com/procore-oss/blueprinter" target="_blank" rel="noreferrer">
@@ -247,12 +275,8 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
         <!-- graphiti -->
         <a href="https://www.graphiti.dev/guides/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/42073377?s=100&v=4" alt="graphiti" title=🎨 "JSONAPI Suite Stylish Graph APIs" width="26" height="26" />
+          <img src="https://avatars.githubusercontent.com/u/42073377?s=100&v=4" alt="graphiti" title="🎨 JSONAPI Suite Stylish Graph APIs" width="26" height="26" />
         </a><br>
-        <!-- doorkeeper -->
-        <a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/7275750?s=100&v=4" alt="doorkeeper" title="🚪 Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape." width="26" height="26" />
-        </a>
         <!-- OmniAuth -->
         <a href="https://github.com/omniauth/omniauth" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/17064356?s=100&v=4" alt="OmniAuth" title="🔐 OmniAuth is a flexible authentication system utilizing Rack middleware." width="26" height="26" />
@@ -264,6 +288,10 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <!-- Sorcery -->
         <a href="https://github.com/Sorcery/sorcery" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/22108545?s=100&v=4" alt="Sorcery" title="🔮 Magical Authentication" width="26" height="26" />
+        </a>
+        <!-- Auther -->
+        <a href="https://alchemists.io/projects/auther" target="_blank" rel="noreferrer">
+          <img src="https://alchemists.io/images/projects/auther/logo.png" alt="Auther" title="🔑 Auther provides simple, form-based authentication for apps that need security but don’t want to deal with the clunky HTTP Basic Authentication user interface or as heavyweight as Devise." width="26" height="26" />
         </a><br>
         <!-- action_policy -->
         <a href="https://actionpolicy.evilmartians.io/" target="_blank" rel="noreferrer">
@@ -276,50 +304,10 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <!-- CanCanCan -->
         <a href="https://github.com/CanCanCommunity/cancancan" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/6765080?s=100&v=4" alt="CanCanCan" title="🥫 The authorization Gem for Ruby on Rails." width="26" height="26" />
-        </a><br>
-        <!-- rails-best-practices -->
-        <a href="https://rails-bestpractices.com/" target="_blank" rel="noreferrer">
-          <img src="https://rails-bestpractices.com/img/favicon.ico" alt="rails-best-practices" title="🥇 Rails Best Practices" width="26" height="26" />
-        </a><br>
-        <!-- Standard Ruby -->
-        <a href="https://github.com/standardrb" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/130491999?s=100&v=4" alt="Standard Ruby" title="🟡 Home of the `standard` gem and the Standard Ruby family of brands. Brought to you by Test Double" width="26" height="26" />
-        </a><br>
-        <!-- bullet -->
-        <a href="https://github.com/flyerhzm/bullet" target="_blank" rel="noreferrer">
-          <img src="https://cdn2.iconfinder.com/data/icons/criminal-minds/350/Bullet-Shooting-64.png" alt="bullet" title="💥 Help to kill N+1 queries and unused eager loading" width="26" height="26" />
-        </a><br>
-        <!-- Brakeman -->
-        <a href="https://brakemanscanner.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/presidentbeef/brakeman/gh-pages/images/brakeman_logo_dark.png" alt="Brakeman" title="🚂 Ruby on Rails Static Analysis Security Tool" width="26" height="26" />
-        </a><br>
-        <!-- Reek -->
-        <a href="https://github.com/troessner/reek" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/troessner/reek/master/logo/reek.png" alt="Reek" title="🤢 Code smell detector for Ruby" width="26" height="26" />
-        </a><br>
-        <!-- rubycritic -->
-        <a href="https://github.com/whitesmith/rubycritic" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/whitesmith/rubycritic/main/images/logo.png" alt="rubycritic" title="💯 A Ruby code quality reporter" width="26" height="26" />
-        </a><br>
-        <!-- metric_fu -->
-        <a href="https://github.com/metricfu/metric_fu" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/3143951?s=100&v=4" alt="metric_fu" title="📏 metric_fu: A Ruby Gem for Easy Metric Report Generation" width="26" height="26" />
-        </a><br>
-        <!-- concurrent-ruby -->
-        <a href="https://github.com/ruby-concurrency/concurrent-ruby" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/ruby-concurrency/concurrent-ruby/master/docs-source/logo/concurrent-ruby-logo-200x200.png" alt="concurrent-ruby" title="🔀 Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more." width="26" height="26" />
-        </a><br>
-        <!-- coverband -->
-        <a href="https://github.com/danmayer/coverband" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danmayer/coverband/8a8c65c21f8436a8531610e40e893d9db8c1b572/docs/assets/logo/heads.svg" alt="coverband" title="🎺 Ruby production code coverage collection and reporting (line of code usage)" width="26" height="26" />
-        </a><br>
-        <!-- carmen -->
-        <a href="https://github.com/carmen-ruby/carmen" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/32596680?s=100&v=4" alt="carmen" title="🗺️ A repository of geographic regions for Ruby" width="26" height="26" />
         </a>
-        <!-- geokit -->
-        <a href="https://github.com/geokit/geokit" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1250694?s=100&v=4" alt="geokit" title="🌏 Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations" width="26" height="26" />
+        <!-- doorkeeper -->
+        <a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/7275750?s=100&v=4" alt="doorkeeper" title="🚪 Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape." width="26" height="26" />
         </a><br>
         <!-- carrierwave -->
         <a href="https://github.com/carrierwaveuploader/carrierwave" target="_blank" rel="noreferrer">
@@ -333,13 +321,49 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://github.com/markevans/dragonfly" target="_blank" rel="noreferrer">
           <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f432.png" alt="dragonfly" title="🐉 A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!" width="26" height="26" />
         </a><br>
-        <!-- factory_bot -->
-        <a href="https://github.com/thoughtbot/factory_bot" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/6183?s=100&v=4" alt="factory_bot" title="🤖 A library for setting up Ruby objects as test data." width="26" height="26" />
+        <!-- rails-i18n -->
+        <a href="https://github.com/svenfuchs/rails-i18n" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/8200960?s=100&v=4" alt="rails-i18n" title="🌐 An open-source project to capture the spirit and challenges of the Rails internationalization world." width="26" height="26" />
+        </a>
+        <!-- globalize -->
+        <a href="https://github.com/globalize/globalize" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/5650452?s=100&v=4" alt="globalize" title="🌎 Rails I18n de-facto standard library for ActiveRecord model/data translation." width="26" height="26" />
+        </a>
+        <!-- i18n-js -->
+        <a href="https://github.com/fnando/i18n-js" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/fnando/i18n-js/main/images/i18njs.png" alt="i18n-js" title="✨ It's a small library to provide the I18n translations on the Javascript. It comes with Rails support" width="26" height="12" />
+        </a>
+        <!-- localeapp -->
+        <a href="https://www.localeapp.com/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/681462?s=100&v=4" alt="localeapp" title="📌 Send and retrieve your Ruby i18n localizations to the Locale translation service" width="26" height="26" />
+        </a><br>
+        <!-- geocoder -->
+        <a href="https://www.rubygeocoder.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.rubygeocoder.com/images/logo.large.png" alt="geocoder" title="📍 Complete Ruby geocoding solution." width="26" height="26" />
+        </a>
+        <!-- geokit -->
+        <a href="https://github.com/geokit/geokit" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1250694?s=100&v=4" alt="geokit" title="🌏 Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations." width="26" height="26" />
+        </a>
+        <!-- rgeo -->
+        <a href="https://rgeo.info/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/7430159?s=100&v=4" alt="rgeo" title="🌏 Support for geo data and databases in Ruby and Rails." width="26" height="26" />
+        </a>
+        <!-- carmen -->
+        <a href="https://github.com/carmen-ruby/carmen" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/32596680?s=100&v=4" alt="carmen" title="🗺️ A repository of geographic regions for Ruby" width="26" height="26" />
         </a><br>
         <!-- searchkick -->
         <a href="https://github.com/ankane/searchkick" target="_blank" rel="noreferrer">
           <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f50e.png" alt="searchkick" title="🔎 Intelligent search made easy" width="26" height="26" />
+        </a>
+        <!-- ransack -->
+        <a href="https://github.com/activerecord-hackery/ransack" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/activerecord-hackery/ransack/main/docs/static/logo/ransack.png" alt="ransack" title="⌕ Object-based searching. Ransack will help you easily add searching to your Rails application, without any additional dependencies." width="26" height="26" />
+        </a>
+        <!-- chewy -->
+        <a href="https://github.com/toptal/chewy" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f444.png" alt="chewy" title="🍬 High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client." width="26" height="26" />
         </a><br>
         <!-- pghero -->
         <a href="https://github.com/ankane/pghero" target="_blank" rel="noreferrer">
@@ -353,18 +377,6 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://github.com/ankane/chartkick" target="_blank" rel="noreferrer">
           <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f4ca.png" alt="chartkick" title="📈 Create beautiful JavaScript charts with one line of Ruby" width="26" height="26" />
         </a><br>
-        <!-- fog -->
-        <a href="https://fog.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/991149?s=100&v=4" alt="fog" title="🌫️ The Ruby cloud services library." width="26" height="26" />
-        </a><br>
-        <!-- rswag -->
-        <a href="https://github.com/rswag/rswag" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/55741034?s=100&v=4" alt="rswag" title="🚶 Seamlessly adds a Swagger to Rails-based API's" width="26" height="26" />
-        </a><br>
-        <!-- komponent -->
-        <a href="http://komponent.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/34619698?s=100&v=4" alt="komponent" title="🧩 An opinionated way of organizing front-end code in Ruby on Rails, based on components" width="26" height="26" />
-        </a><br>
         <!-- Sidekiq -->
         <a href="https://sidekiq.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/sidekiq/sidekiq/1f44078295e070a318a67b6dbaeba307df685bf6/img/red-kicker.svg" alt="Sidekiq" title="🥋 Simple, efficient background processing for Ruby" width="26" height="26" />
@@ -377,109 +389,13 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://github.com/ruby-shoryuken/shoryuken" target="_blank" rel="noreferrer">
           <img src="https://cdn.icon-icons.com/icons2/390/PNG/96/shuriken_38897.png" alt="shoryuken" title="🐱‍👤 A super efficient Amazon SQS thread based message processor for Ruby" width="26" height="26" />
         </a><br>
+        <!-- Karafka -->
+        <a href="https://karafka.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/karafka/misc/master/logo/karafka_logotype_transparent.png" alt="Karafka" title="🧪 Ruby and Rails efficient Kafka processing framework" width="26" height="26" />
+        </a>
         <!-- sneakers -->
         <a href="https://github.com/jondot/sneakers" target="_blank" rel="noreferrer">
           <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f45f.png" alt="sneakers" title="👟 A fast background processing framework for Ruby and RabbitMQ" width="26" height="26" />
-        </a><br>
-        <!-- figaro -->
-        <a href="https://github.com/laserlemon/figaro" target="_blank" rel="noreferrer">
-          <img src="https://i.servimg.com/u/f41/20/33/02/12/iconss12.png" alt="figaro" title="🛠️ Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file" width="26" height="26" />
-        </a><br>
-        <!-- pry -->
-        <a href="https://pry.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/845682?s=100&v=4" alt="pry" title="🕹️ A runtime developer console and IRB alternative with powerful introspection capabilities." width="26" height="26" />
-        </a>
-        <!-- Rib -->
-        <a href="https://rib.godfat.org/" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f356.png" alt="Rib" title="🍖 A lightweight and extensible irb replacement" width="26" height="26" />
-        </a><br>
-        <!-- yard -->
-        <a href="https://yardoc.org/" target="_blank" rel="noreferrer">
-          <img src="https://yardoc.org/favicon.ico" alt="yard" title="📑 YARD is a Ruby Documentation tool. The Y stands for 'Yay!'" width="26" height="26" />
-        </a><br>
-        <!-- solidus -->
-        <a href="https://github.com/solidusio/solidus" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/11045486?s=100&v=4" alt="solidus" title="🛒 Solidus, the open-source eCommerce framework for industry trailblazers." width="26" height="26" />
-        </a><br>
-        <!-- rbnacl -->
-        <a href="https://github.com/RubyCrypto/rbnacl" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/34987859?s=100&v=4" alt="rbnacl" title="🧂 Ruby FFI binding to the Networking and Cryptography (NaCl) library (a.k.a. libsodium)" width="26" height="26" />
-        </a><br>
-        <!--rbenv  -->
-        <a href="https://rbenv.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/10675212?s=100&v=4" alt="rbenv" title="👨🏻‍💻 Manage your app's Ruby environment" width="26" height="26" />
-        </a>
-        <!--rvm -->
-        <a href="https://rvm.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/2589612?s=100&v=4" alt="rvm" title="👀 RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems." width="26" height="26" />
-        </a><br>
-        <!-- airbrake -->
-        <a href="https://github.com/airbrake/airbrake" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1015434?s=100&v=4" alt="airbrake" title="✈️ The official Airbrake library for Ruby applications" width="26" height="26" />
-        </a><br>
-        <!-- flipper -->
-        <a href="www.flippercloud.io/docs" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/130090392?s=100&v=4" alt="flipper" title="🐬 Beautiful, performant feature flags for Ruby." width="26" height="26" />
-        </a><br>
-        <!-- rails_event_store -->
-        <a href="https://railseventstore.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/29432749?s=100&v=4" alt="rails_event_store" title="📅 A Ruby implementation of an Event Store based on Active Record" width="26" height="26" />
-        </a><br>
-        <!-- dalli -->
-        <a href="https://github.com/petergoldstein/dalli" target="_blank" rel="noreferrer">
-          <img src="https://camo.githubusercontent.com/d6487dc0f2669af5f57127798d5229e5054f05f19cde67abc1209797db99fbae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f642f64642f5468655f50657273697374656e63655f6f665f4d656d6f72792e6a7067" alt="dalli" title="🕒 High performance memcached client for Ruby" width="26" height="26" />
-        </a><br>
-        <!-- guard -->
-        <a href="https://github.com/guard/guard" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/351846?s=100&v=4" alt="guard" title="💂‍♂️ Guard is a command line tool to easily handle events on file system modifications." width="26" height="26" />
-        </a><br>
-        <!-- nokogiri -->
-        <a href="https://nokogiri.org/" target="_blank" rel="noreferrer">
-          <img src="https://camo.githubusercontent.com/a2dac74238717e7ee0e33d8624297e2b7bb04312d80fe325ec2a1280922587d3/68747470733a2f2f6e6f6b6f676972692e6f72672f696d616765732f6e6f6b6f676972692d73657269662d626c61636b2e706e67" alt="nokogiri" title="⛩️ Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, and xerces." width="26" height="26" />
-        </a><br>
-        <!-- Faraday -->
-        <a href="https://lostisland.github.io/faraday/#/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/lostisland/faraday/main/docs/_media/logo.png" alt="Faraday" title="🌐 Faraday is an HTTP client library abstraction layer that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle." width="26" height="26" />
-        </a>
-        <!-- savon -->
-        <a href="https://www.savonrb.com/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/2353495?s=100&v=4" alt="savon" title="🤘 Heavy metal SOAP client" width="26" height="26" />
-        </a><br>
-        <!-- rmagick -->
-        <a href="https://rmagick.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/12403326?s=100&v=4" alt="rmagick" title="🖼️ Ruby bindings for ImageMagick" width="26" height="26" />
-        </a><br>
-        <!-- mini_magick -->
-        <a href="https://rubydoc.info/gems/mini_magick" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f3a9.png" alt="mini_magick" title="✨ Mini replacement for RMagick" width="26" height="26" />
-        </a><br>
-        <!-- crystalball -->
-        <a href="https://toptal.github.io/crystalball/" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f52e.png" alt="crystalball" title="🔮 Crystalball is a Ruby library which implements Regression Test Selection mechanism originally published by Aaron Patterson. Its main purpose is to select a minimal subset of your test suite which should be run to ensure your changes didn't break anything." width="26" height="26" />
-        </a><br>
-        <!-- rpush -->
-        <a href="https://github.com/rpush/rpush" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/3169839?s=100&v=4" alt="rpush" title="🔔 The push notification service for Ruby." width="26" height="26" />
-        </a>
-        <!-- noticed -->
-        <a href="https://github.com/excid3/noticed" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f514.png" alt="noticed" title="🛎️ Notifications for Ruby on Rails applications" width="26" height="26" />
-        </a><br>
-        <!-- RubyMoney -->
-        <a href="https://rubymoney.github.io/money/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/351550?s=100&v=4" alt="RubyMoney" title="💸 A Ruby Library for dealing with money and currency conversion." width="26" height="26" />
-        </a><br>
-        <!-- Sequel -->
-        <a href="https://sequel.jeremyevans.net/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/jeremyevans/sequel/gh-pages/images/favicon.ico" alt="Sequel" title="🎥 Sequel: The Database Toolkit for Ruby" width="26" height="26" />
-        </a>
-        <!-- rom-rb -->
-        <a href="https://rom-rb.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/4589832?s=100&v=4" alt="rom-rb" title="💾 Data mapping and persistence toolkit for Ruby" width="26" height="26" />
-        </a>
-        <!-- activegraph -->
-        <a href="http://neo4jrb.io/" target="_blank" rel="noreferrer">
-          <img src="http://neo4jrb.io/favicon.png" alt="activegraph" title="💞 An active model wrapper for the Neo4j Graph Database for Ruby." width="26" height="26" />
         </a><br>
         <!-- pagy -->
         <a href="https://ddnexus.github.io/pagy/" target="_blank" rel="noreferrer">
@@ -493,118 +409,25 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://github.com/glebm/order_query" target="_blank" rel="noreferrer">
           <img src="http://use-the-index-luke.com/img/no-offset.q200.png" alt="order_query" title="🕵🏻‍♂️ Find next / previous Active Record(s) in one query" width="26" height="26" />
         </a><br>
-        <!-- foreman -->
-        <a href="https://github.com/ddollar/foreman" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f477-200d-2642-fe0f.png" alt="foreman" title="👷🏻‍♂️ Manage Procfile-based applications" width="26" height="26" />
-        </a><br>
-        <!-- rails-i18n -->
-        <a href="https://github.com/svenfuchs/rails-i18n" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/8200960?s=100&v=4" alt="rails-i18n" title="🌐 An open-source project to capture the spirit and challenges of the Rails internationalization world." width="26" height="26" />
+        <br>
+        <!-- fog -->
+        <a href="https://fog.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/991149?s=100&v=4" alt="fog" title="🌫️ The Ruby cloud services library." width="26" height="26" />
         </a>
-        <!-- globalize -->
-        <a href="https://github.com/globalize/globalize" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/5650452?s=100&v=4" alt="globalize" title="🌎 Rails I18n de-facto standard library for ActiveRecord model/data translation." width="26" height="26" />
-        </a><br>
-        <!-- ruby-prof -->
-        <a href="https://ruby-prof.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/2699-fe0f.png" alt="ruby-prof" title="🕵️ ruby-prof is a profiler for MRI Ruby" width="26" height="26" />
+        <!-- nokogiri -->
+        <a href="https://nokogiri.org/" target="_blank" rel="noreferrer">
+          <img src="https://camo.githubusercontent.com/a2dac74238717e7ee0e33d8624297e2b7bb04312d80fe325ec2a1280922587d3/68747470733a2f2f6e6f6b6f676972692e6f72672f696d616765732f6e6f6b6f676972692d73657269662d626c61636b2e706e67" alt="nokogiri" title="⛩️ Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, and xerces." width="26" height="26" />
         </a>
-        <!-- test-prof -->
-        <a href="https://test-prof.evilmartians.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/60118334?s=100&v=4" alt="test-prof" title="🕴️ Ruby Tests Profiling Toolbox" width="26" height="26" />
+        <!-- rswag -->
+        <a href="https://github.com/rswag/rswag" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/55741034?s=100&v=4" alt="rswag" title="🚶 Seamlessly adds a Swagger to Rails-based API's" width="26" height="26" />
         </a>
-        <!-- rack-mini-profiler -->
-        <a href="https://github.com/MiniProfiler/rack-mini-profiler" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1631473?s=100&v=4" alt="rack-mini-profiler" title="🚴🏻 Profiler for your development and production Ruby rack apps." width="26" height="26" />
-        </a>
-        <!-- rbspy -->
-        <a href="https://rbspy.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/35230318?s=100&v=4" alt="rbspy" title="🔎 Sampling CPU profiler for Ruby" width="26" height="26" />
+        <!-- solidus -->
+        <a href="https://github.com/solidusio/solidus" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/11045486?s=100&v=4" alt="solidus" title="🛒 Solidus, the open-source eCommerce framework for industry trailblazers." width="26" height="26" />
         </a><br>
-        <!-- rack-attack -->
-        <a href="https://github.com/rack/rack-attack" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/26d4.png" alt="rack-attack" title="⛔ Rack middleware for blocking & throttling" width="26" height="26" />
-        </a><br>
-        <!-- ronin -->
-        <a href="https://ronin-rb.dev/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/191455?s=100&v=4" alt="ronin" title="🤺 Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd-party git repositories." width="26" height="26" />
-        </a><br>
-        <!-- rack-tracker -->
-        <a href="https://github.com/railslove/rack-tracker" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1067?s=100&v=4" alt="rack-tracker" title="🐾 Tracking made easy: Don’t fool around with adding tracking and analytics partials to your app and concentrate on the things that matter." width="26" height="26" />
-        </a><br>
-        <!-- peek -->
-        <a href="https://github.com/peek/peek" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/3991568?s=100&v=4" alt="peek" title="🙈 Take a peek into your Rails applications." width="26" height="26" />
-        </a><br>
-        <!-- batch-loader -->
-        <a href="https://github.com/exaspark/batch-loader" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f5f3-fe0f.png" alt="batch-loader" title="⚡ Powerful tool for avoiding N+1 DB or HTTP queries" width="26" height="26" />
-        </a><br>
-        <!-- aasm -->
-        <a href="https://github.com/aasm/aasm" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1910612?s=100&v=4" alt="aasm" title="🏤 AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)" width="26" height="26" />
-        </a>
-        <!-- finite_machine -->
-        <a href="https://piotrmurach.github.io/finite_machine/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/piotrmurach/finite_machine/gh-pages/favicons/android-chrome-72x72.png" alt="finite_machine" title="🦾 A minimal finite state machine with a straightforward syntax." width="26" height="26" />
-        </a><br>
-        <!-- fabrication -->
-        <a href="https://fabricationgem.org/" target="_blank" rel="noreferrer">
-          <img src="https://fabricationgem.org/images/favicon-bef86efa.png" alt="fabrication" title="🏭 Fabrication generates objects in Ruby. Fabricators are schematics for your objects, and can be created as needed anywhere in your app or specs." width="26" height="26" />
-        </a><br>
-        <!-- capybara -->
-        <a href="https://github.com/teamcapybara/capybara" target="_blank" rel="noreferrer">
-          <img src="https://public.rive.app/avatars/256165-1-1683877720-prod" alt="capybara" title="🦦 Acceptance test framework for web applications" width="26" height="26" />
-        </a><br>
-        <!-- ransack -->
-        <a href="" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/activerecord-hackery/ransack/main/docs/static/logo/ransack.png" alt="ransack" title="⌕ Object-based searching. Ransack will help you easily add searching to your Rails application, without any additional dependencies." width="26" height="26" />
-        </a><br>
-        <!-- RSpec -->
-        <a href="https://rspec.info/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" title="📝 Behaviour Driven Development for Ruby. Making TDD Productive and Fun." width="26" height="26" />
-        </a><br>
-        <!-- minitest -->
-        <a href="https://docs.seattlerb.org/minitest/" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f4dd.png" alt="minitest" title="📝 minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking." width="26" height="26" />
-        </a><br>
-        <!-- RR -->
-        <a href="https://rr.github.io/rr/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/3942699?s=100&v=4" alt="RR" title="⛺ RR is a test double framework that features a rich selection of double techniques and a terse syntax." width="26" height="26" />
-        </a><br>
-        <!-- spinach -->
-        <a href="https://github.com/codegram/spinach" target="_blank" rel="noreferrer">
-          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f966.png" alt="spinach" title="🥬 Spinach is a BDD framework on top of Gherkin." width="26" height="26" />
-        </a><br>
-        <!-- fixrb -->
-        <a href="https://fixrb.dev/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/8945583?s=100&v=4" alt="fixrb" title="🌶️ Specing framework." width="26" height="26" />
-        </a><br>
-        <!-- faker -->
-        <a href="https://github.com/faker-ruby/faker" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/47637297?s=100&v=4" alt="faker" title="🎭 A library for generating fake data such as names, addresses, and phone numbers." width="26" height="26" />
-        </a><br>
-        <!-- watir -->
-        <a href="http://watir.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/1331009?s=100&v=4" alt="watir" title="💧 Watir is... An open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text." width="26" height="26" />
-        </a><br>
-        <!-- rubygems.org -->
-        <a href="https://rubygems.org/" target="_blank" rel="noreferrer">
-          <img src="https://rubygems.org/favicon.ico" alt="rubygems" title="💎 Library packaging and distribution for Ruby." width="26" height="26" />
-        </a><br>
-        <!-- Rubocop -->
-        <a href="https://rubocop.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_rubocop.svg" alt="rubocop" title="🤖 RuboCop is extremely flexible and most aspects of its behavior can be tweaked via various configuration options." width="26" height="26" />
-        </a>
-        <!-- Sorbet -->
-        <a href="https://sorbet.org/" target="_blank" rel="noreferrer">
-          <img src="https://avatars.githubusercontent.com/u/46383129?s=100&v=4" alt="Sorbet" title="🍧 Sorbet gives your Ruby development environment IDE-like features, including autocomplete, in-editor documentation, and go to definition." width="26" height="26" />
-        </a><br>
-        <!-- Karafka -->
-        <a href="https://karafka.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/karafka/misc/master/logo/karafka_logotype_transparent.png" alt="Karafka" title="🧪 Ruby and Rails efficient Kafka processing framework" width="26" height="26" />
-        </a><br>
+        <br>
+    <!---- Admin Interface ---->
         <!-- ActiveAdmin -->
         <a href="https://activeadmin.info/" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/814570?s=100&v=4" alt="ActiveAdmin" title="🔩 The administration framework for business critical Ruby on Rails applications." width="26" height="26" />
@@ -613,10 +436,17 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://avohq.io/rails-admin" target="_blank" rel="noreferrer">
           <img src="https://avohq.io/apple-touch-icon.png" alt="Avo Rails Admin" title="🚀 Finally, a Ruby on Rails Admin Panel that will make you happy" width="26" height="26" />
         </a>
+        <!-- trestle -->
+        <a href="https://trestle.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars3.githubusercontent.com/u/29348992?v=3&s=100" alt="trestle" title="🌉 A modern, responsive admin framework for Ruby on Rails" width="26" height="26" />
+        </a>
         <!-- motor-admin-rails -->
         <a href="https://github.com/motor-admin/motor-admin-rails" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/84705953?s=100&v=4" alt="motor-admin-rails" title="🏍️ Low-code Admin panel and Business intelligence Rails engine. No DSL - configurable from the UI. Rails Admin, Active Admin, Blazer modern alternative." width="26" height="26" />
         </a><br>
+    <!---- /Admin Interface ---->
+        <br>
+    <!---- WebSocket ---->
         <!-- AnyCable -->
         <a href="https://anycable.io/" target="_blank" rel="noreferrer">
           <img src="https://docs.anycable.io/assets/images/logo.svg" title="🔌 AnyCable, a polyglot replacement for Ruby WebSocket servers with Action Cable protocol.&#10;Realtime server for reliable two-way communication." alt="AnyCable" width="26" height="26" />
@@ -629,39 +459,408 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         <a href="https://faye.jcoglan.com/" target="_blank" rel="noreferrer">
           <img src="https://faye.jcoglan.com/images/faye-logo.gif" title="🔄 Faye is a publish-subscribe messaging system based on the Bayeux protocol. It provides message servers for Ruby, and clients for use on the server and in all major web browsers." alt="Faye" width="26" height="15" />
         </a>
-        <br>
+        <!-- Firehose -->
+        <a href="http://firehose.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/7160598?s=100&v=4" title="🔥 Build realtime Ruby web applications. Created by the fine folks at Poll Everywhere." alt="Firehose" width="26" height="26" />
+        </a><br>
+    <!---- /WebSocket ---->
       </p>
     </td>
     <td align="center">
       <p align="center">
+    <!---- Testing ---->
+        <!-- RSpec -->
+        <a href="https://rspec.info/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="RSpec" title="📝 Behaviour Driven Development for Ruby. Making TDD Productive and Fun." width="26" height="26" />
+        </a><br>
+        <!-- minitest -->
+        <a href="https://docs.seattlerb.org/minitest/" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f4dd.png" alt="minitest" title="📝 minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking." width="26" height="26" />
+        </a>
+        <!-- howitzer -->
+        <a href="https://howitzer-framework.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/strongqa/howitzer/gh-pages/images/howitzer-icon.png" alt="howitzer" title="💣 Ruby based framework for acceptance testing" width="26" height="26" />
+        </a><br>
+        <!-- shoulda-matchers -->
+        <a href="https://matchers.shoulda.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/thoughtbot/shoulda-matchers/gh-pages/favicon.ico" alt="shoulda-matchers" title="🧦 Simple one-liner tests for common Rails functionality." width="26" height="26" />
+        </a>
+        <!-- RR -->
+        <a href="https://rr.github.io/rr/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/3942699?s=100&v=4" alt="RR" title="⛺ RR is a test double framework that features a rich selection of double techniques and a terse syntax." width="26" height="26" />
+        </a><br>
+        <!-- fixrb -->
+        <a href="https://fixrb.dev/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/8945583?s=100&v=4" alt="fixrb" title="🌶️ Specing framework." width="26" height="26" />
+        </a>
+        <!-- spinach -->
+        <a href="https://github.com/codegram/spinach" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f966.png" alt="spinach" title="🥬 Spinach is a BDD framework on top of Gherkin." width="26" height="26" />
+        </a><br>
+        <!-- selenium-webdriver -->
+        <a href="https://github.com/SeleniumHQ/selenium/tree/trunk/rb" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/983927?s=100&v=4" alt="selenium-webdriver" title="🎇 This gem provides Ruby bindings for Selenium and supports MRI >= 3.0." width="26" height="26" />
+        </a>
+        <!-- watir -->
+        <a href="http://watir.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1331009?s=100&v=4" alt="watir" title="💧 Watir is... An open source Ruby library for automating tests. Watir interacts with a browser the same way people do: clicking links, filling out forms and validating text." width="26" height="26" />
+        </a><br>
+        <!-- capybara -->
+        <a href="https://github.com/teamcapybara/capybara" target="_blank" rel="noreferrer">
+          <img src="https://howitzer-framework.io/img/content/ico-5.png" alt="capybara" title="🦦 Acceptance test framework for web applications" width="26" height="26" />
+        </a>
+        <!-- poltergeist -->
+        <a href="https://github.com/teampoltergeist/poltergeist" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/7149329?s=100&v=4" alt="poltergeist" title="👻 A PhantomJS driver for Capybara." width="26" height="26" />
+        </a><br><br>
+        <!-- flipper -->
+        <a href="https://www.flippercloud.io/docs" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/130090392?s=100&v=4" alt="flipper" title="🐬 Beautiful, performant feature flags for Ruby." width="26" height="26" />
+        </a>
+        <!-- split -->
+        <a href="https://github.com/splitrb/split" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/11708074?s=100&v=4" alt="split" title="📈 The Rack Based A/B testing framework." width="26" height="26" />
+        </a><br><br>
+    <!---- /Testing ---->
+    <!---- Fake Data & Fabrics ---->
+        <!-- faker -->
+        <a href="https://github.com/ffaker/ffaker" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/47637297?s=100&v=4" alt="faker" title="🎭 A library for generating fake data such as names, addresses, and phone numbers." width="26" height="26" />
+        </a>
+        <!-- evil-seed -->
+        <a href="https://github.com/evilmartians/evil-seed" target="_blank" rel="noreferrer">
+          <img src="https://evilmartians.com/apple-touch-icon.png" alt="evil-seed" title="🌱 A Gem for creating partial anonymized dumps of your database using your app model relations." width="26" height="26" />
+        </a><br>
+        <!-- factory_bot -->
+        <a href="https://github.com/thoughtbot/factory_bot" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/6183?s=100&v=4" alt="factory_bot" title="🤖 A library for setting up Ruby objects as test data." width="26" height="26" />
+        </a>
+        <!-- fabrication -->
+        <a href="https://fabricationgem.org/" target="_blank" rel="noreferrer">
+          <img src="https://fabricationgem.org/images/favicon-bef86efa.png" alt="fabrication" title="🏭 Fabrication generates objects in Ruby. Fabricators are schematics for your objects, and can be created as needed anywhere in your app or specs." width="26" height="26" />
+        </a><br>
+    <!---- /Fake Data & Fabrics ---->
+        <br>
+    <!---- Profiler and Optimization ---->
+        <!-- ruby-prof -->
+        <a href="https://ruby-prof.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/2699-fe0f.png" alt="ruby-prof" title="🕵️ ruby-prof is a profiler for MRI Ruby" width="26" height="26" />
+        </a>
+        <!-- test-prof -->
+        <a href="https://test-prof.evilmartians.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/60118334?s=100&v=4" alt="test-prof" title="🕴️ Ruby Tests Profiling Toolbox" width="26" height="26" />
+        </a><br>
+        <!-- rbkit -->
+        <a href="https://rbkit.c9s.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/codemancers/rbkit/master/logo.png" alt="rbkit" title="🧰 A new profiler for Ruby. With a GUI" width="26" height="26" />
+        </a>
+        <!-- rack-mini-profiler -->
+        <a href="https://github.com/MiniProfiler/rack-mini-profiler" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1631473?s=100&v=4" alt="rack-mini-profiler" title="🚴🏻 Profiler for your development and production Ruby rack apps." width="26" height="26" />
+        </a><br>
+        <!-- rbspy -->
+        <a href="https://rbspy.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/35230318?s=100&v=4" alt="rbspy" title="🔎 Sampling CPU profiler for Ruby" width="26" height="26" />
+        </a>
+        <!-- peek -->
+        <a href="https://github.com/peek/peek" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/3991568?s=100&v=4" alt="peek" title="🙈 Take a peek into your Rails applications." width="26" height="26" />
+        </a><br>
+        <!-- bullet -->
+        <a href="https://github.com/flyerhzm/bullet" target="_blank" rel="noreferrer">
+          <img src="https://cdn2.iconfinder.com/data/icons/criminal-minds/350/Bullet-Shooting-64.png" alt="bullet" title="💥 Help to kill N+1 queries and unused eager loading" width="26" height="26" />
+        </a>
+        <!-- batch-loader -->
+        <a href="https://github.com/exaspark/batch-loader" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f5f3-fe0f.png" alt="batch-loader" title="⚡ Powerful tool for avoiding N+1 DB or HTTP queries" width="26" height="26" />
+        </a><br>
+    <!---- /Profiler and Optimization ---->
+        <br>
+    <!---- Code Analysis and Metrics ---->
+        <!-- Rubocop -->
+        <a href="https://rubocop.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_rubocop.svg" alt="rubocop" title="🤖 RuboCop is extremely flexible and most aspects of its behavior can be tweaked via various configuration options." width="26" height="26" />
+        </a>
+        <!-- Standard Ruby -->
+        <a href="https://github.com/standardrb" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/130491999?s=100&v=4" alt="Standard Ruby" title="🟡 Home of the `standard` gem and the Standard Ruby family of brands. Brought to you by Test Double" width="26" height="26" />
+        </a><br>
+        <!-- Reek -->
+        <a href="https://github.com/troessner/reek" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/troessner/reek/master/logo/reek.png" alt="Reek" title="🤢 Code smell detector for Ruby" width="26" height="26" />
+        </a>
+        <!-- rails-best-practices -->
+        <a href="https://rails-bestpractices.com/" target="_blank" rel="noreferrer">
+          <img src="https://rails-bestpractices.com/img/favicon.ico" alt="rails-best-practices" title="🥇 Rails Best Practices" width="26" height="26" />
+        </a><br>
+        <!-- Brakeman -->
+        <a href="https://brakemanscanner.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/presidentbeef/brakeman/gh-pages/images/brakeman_logo_dark.png" alt="Brakeman" title="🚂 Ruby on Rails Static Analysis Security Tool" width="26" height="26" />
+        </a>
+        <!-- rubycritic -->
+        <a href="https://github.com/whitesmith/rubycritic" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/whitesmith/rubycritic/main/images/logo.png" alt="rubycritic" title="💯 A Ruby code quality reporter" width="26" height="26" />
+        </a><br>
+        <!-- metric_fu -->
+        <a href="https://github.com/metricfu/metric_fu" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/3143951?s=100&v=4" alt="metric_fu" title="📏 metric_fu: A Ruby Gem for Easy Metric Report Generation" width="26" height="26" />
+        </a>
+        <!-- Flay -->
+        <a href="https://github.com/seattlerb/flay" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/55277?s=100&v=4" alt="Flay" title="👩🏿‍🤝‍👩🏼 Flay analyzes code for structural similarities. Differences in literal values, variable, class, method names, whitespace, programming style, braces vs do/end, etc are all ignored. Making this totally rad." width="26" height="26" />
+        </a><br>
+        <!-- undercover -->
+        <a href="https://github.com/grodowski/undercover" target="_blank" rel="noreferrer">
+          <img src="https://private-user-images.githubusercontent.com/4991698/273386524-c4bf038b-4472-4406-8f1f-5ddc812908d6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE4Mjc2NTAsIm5iZiI6MTcyMTgyNzM1MCwicGF0aCI6Ii80OTkxNjk4LzI3MzM4NjUyNC1jNGJmMDM4Yi00NDcyLTQ0MDYtOGYxZi01ZGRjODEyOTA4ZDYucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI0MDcyNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNDA3MjRUMTMyMjMwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Yzk5Zjg4ZGE2NWU4MGU5MzZhNjg3MTU0MmYyZmU2YmMzN2RjYTQxZDNiZjc3ZjQ1M2IwNzBmZjM0NmQ3YzJkYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.k7ST5WWHc7JRq0XKNSdFflCnwbwb1KPOE61jPczlTak" alt="undercover" title="🕵 Undercover warns about methods, classes and blocks that were changed without tests, to help you easily find untested code and reduce the number of bugs. It does so by analysing data from git diffs, code structure and SimpleCov coverage reports." width="26" height="26" />
+        </a>
+        <!-- simplecov -->
+        <a href="https://github.com/simplecov-ruby/simplecov" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/67860375?s=100&v=4" alt="simplecov" title="☂️ Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites" width="26" height="26" />
+        </a><br>
+        <!-- coverband -->
+        <a href="https://github.com/danmayer/coverband" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danmayer/coverband/8a8c65c21f8436a8531610e40e893d9db8c1b572/docs/assets/logo/heads.svg" alt="coverband" title="🎺 Ruby production code coverage collection and reporting (line of code usage)" width="26" height="26" />
+        </a>
+        <!-- coveralls -->
+        <a href="https://coveralls.io/" target="_blank" rel="noreferrer">
+          <img src="https://coveralls.io/apple-touch-icon-precomposed.png" alt="coveralls" title="☆ We help you deliver code confidently by showing which parts of your code aren’t covered by your test suite." width="26" height="26" />
+        </a><br>
+        <!-- ronin -->
+        <a href="https://ronin-rb.dev/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/191455?s=100&v=4" alt="ronin" title="🤺 Ronin is a Free and Open Source Ruby Toolkit for Security Research and Development. Ronin also allows for the rapid development and distribution of code, exploits, payloads, etc, via 3rd-party git repositories." width="26" height="26" />
+        </a>
+        <!-- rack-attack -->
+        <a href="https://github.com/rack/rack-attack" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/26d4.png" alt="rack-attack" title="⛔ Rack middleware for blocking & throttling" width="26" height="26" />
+        </a><br>
+        <!-- bundler-audit -->
+        <a href="https://github.com/rubysec/bundler-audit" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/3538974?s=100&v=4" alt="bundler-audit" title="🗃️ Patch-level verification for Bundler" width="26" height="26" />
+        </a><br>
+    <!---- /Code Analysis and Metrics ---->
+        <br>
+        <!-- crystalball -->
+        <a href="https://toptal.github.io/crystalball/" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f52e.png" alt="crystalball" title="🔮 Crystalball is a Ruby library which implements Regression Test Selection mechanism originally published by Aaron Patterson. Its main purpose is to select a minimal subset of your test suite which should be run to ensure your changes didn't break anything." width="26" height="26" />
+        </a>
+      </p>
+    </td>
+    <td align="center">
+      <p align="center">
+        <!--rbenv  -->
+        <a href="https://rbenv.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/10675212?s=100&v=4" alt="rbenv" title="👨🏻‍💻 Manage your app's Ruby environment" width="26" height="26" />
+        </a>
+        <!--rvm -->
+        <a href="https://rvm.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/2589612?s=100&v=4" alt="rvm" title="👀 RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems." width="26" height="26" />
+        </a><br>
+        <!-- rubygems.org -->
+        <a href="https://rubygems.org/" target="_blank" rel="noreferrer">
+          <img src="https://rubygems.org/favicon.ico" alt="rubygems" title="💎 Library packaging and distribution for Ruby." width="26" height="26" />
+        </a>
+        <!-- gemfast -->
+        <a href="https://gemfast.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/123754087?s=100&v=4" alt="gemfast" title="🏎️💨 A drop in replacement for geminabox written in Go." width="26" height="26" />
+        </a><br>
+        <!-- pry -->
+        <a href="https://pry.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/845682?s=100&v=4" alt="pry" title="🕹️ A runtime developer console and IRB alternative with powerful introspection capabilities." width="26" height="26" />
+        </a>
+        <!-- Rib -->
+        <a href="https://rib.godfat.org/" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f356.png" alt="Rib" title="🍖 A lightweight and extensible irb replacement" width="26" height="26" />
+        </a><br>
+        <!-- yard -->
+        <a href="https://yardoc.org/" target="_blank" rel="noreferrer">
+          <img src="https://yardoc.org/favicon.ico" alt="yard" title="📑 YARD is a Ruby Documentation tool. The Y stands for 'Yay!'" width="26" height="26" />
+        </a>
+        <!-- rdoc -->
+        <a href="https://ruby.github.io/rdoc/" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-google-136/1f4c4.png" alt="rdoc" title="📝 RDoc produces HTML and online documentation for Ruby projects." width="26" height="26" />
+        </a><br>
+        <!-- foreman -->
+        <a href="https://github.com/ddollar/foreman" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f477-200d-2642-fe0f.png" alt="foreman" title="👷🏻‍♂️ Manage Procfile-based applications" width="26" height="26" />
+        </a>
+        <!-- godrb -->
+        <a href="http://godrb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/mojombo/god/master/site/favicon.ico" alt="godrb" title="😇 Ruby process monitor." width="26" height="26" />
+        </a><br>
+        <!-- guard -->
+        <a href="https://github.com/guard/guard" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/351846?s=100&v=4" alt="guard" title="💂‍♂️ Guard is a command line tool to easily handle events on file system modifications." width="26" height="26" />
+        </a>
+        <!-- listen -->
+        <a href="https://github.com/guard/listen" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f442.png" alt="listen" title="💂‍♂️ The Listen gem listens to file modifications and notifies you about the changes." width="26" height="26" />
+        </a><br>
+        <!-- concurrent-ruby -->
+        <a href="https://github.com/ruby-concurrency/concurrent-ruby" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/ruby-concurrency/concurrent-ruby/master/docs-source/logo/concurrent-ruby-logo-200x200.png" alt="concurrent-ruby" title="🔀 Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more." width="26" height="26" />
+        </a>
+        <!-- polyphony -->
+        <a href="https://github.com/digital-fabric/polyphony" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/digital-fabric/polyphony/master/docs/assets/polyphony-logo.png" alt="polyphony" title="🎶 Fine-grained concurrency for Ruby." width="26" height="26" />
+        </a><br>
+        <!-- rails_event_store -->
+        <a href="https://railseventstore.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/29432749?s=100&v=4" alt="rails_event_store" title="📅 A Ruby implementation of an Event Store based on Active Record" width="26" height="26" />
+        </a>
+        <!-- eventide -->
+        <a href="https://eventide-project.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/15861261?s=100&v=4" alt="eventide" title="🗓️ Event Sourcing and Microservices Stack for Ruby." width="26" height="26" />
+        </a><br>
+        <!-- aasm -->
+        <a href="https://github.com/aasm/aasm" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1910612?s=100&v=4" alt="aasm" title="🏤 AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)" width="26" height="26" />
+        </a>
+        <!-- finite_machine -->
+        <a href="https://piotrmurach.github.io/finite_machine/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/piotrmurach/finite_machine/gh-pages/favicons/android-chrome-72x72.png" alt="finite_machine" title="🦾 A minimal finite state machine with a straightforward syntax." width="26" height="26" />
+        </a><br>
+        <!-- Grape -->
+        <a href="https://www.ruby-grape.org/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/13624553?s=100&v=4" alt="Grape" title="🍇 An opinionated micro-framework for creating REST-like APIs in Ruby." width="26" height="26" />
+        </a>
+        <!-- crepe -->
+        <a href="https://github.com/crepe/crepe" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/6919807?s=100&v=4" alt="crepe" title="🥞 The thin API stack." width="26" height="26" />
+        </a><br>
+        <!-- danger -->
+        <a href="https://github.com/danger/danger" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/17147106?s=100&v=4" alt="danger" title="🚫 Stop saying 'you forgot to …' in code review (in Ruby)" width="26" height="26" />
+        </a>
+        <!-- pronto -->
+        <a href="https://github.com/prontolabs/pronto" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/28510538?s=100&v=4" alt="pronto" title="🔜 Quick automated code review of your changes" width="26" height="26" />
+        </a><br>
+        <!-- figaro -->
+        <a href="https://github.com/laserlemon/figaro" target="_blank" rel="noreferrer">
+          <img src="https://i.servimg.com/u/f41/20/33/02/12/iconss12.png" alt="figaro" title="🛠️ Simple, Heroku-friendly Rails app configuration using ENV and a single YAML file" width="26" height="26" />
+        </a>
+        <!-- global -->
+        <a href="https://github.com/railsware/global" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/9354?s=100&v=4" alt="global" title="🛠️ 'Global' provides accessor methods for your configuration data" width="26" height="26" />
+        </a><br>
+        <!-- Faraday -->
+        <a href="https://lostisland.github.io/faraday/#/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/lostisland/faraday/main/docs/_media/logo.png" alt="Faraday" title="🌐 Faraday is an HTTP client library abstraction layer that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle." width="26" height="26" />
+        </a>
+        <!-- savon -->
+        <a href="https://www.savonrb.com/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/2353495?s=100&v=4" alt="savon" title="🤘 Heavy metal SOAP client" width="26" height="26" />
+        </a><br>
+        <!-- dalli -->
+        <a href="https://github.com/petergoldstein/dalli" target="_blank" rel="noreferrer">
+          <img src="https://camo.githubusercontent.com/d6487dc0f2669af5f57127798d5229e5054f05f19cde67abc1209797db99fbae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f642f64642f5468655f50657273697374656e63655f6f665f4d656d6f72792e6a7067" alt="dalli" title="🕒 High performance memcached client for Ruby" width="26" height="26" />
+        </a>
+        <!-- redis-rails -->
+        <a href="https://redis-store.org/redis-rails/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/5261509?s=100&v=4" alt="redis-rails" title="🛢️ Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks." width="26" height="26" />
+        </a><br>
+        <!-- rbnacl -->
+        <a href="https://github.com/RubyCrypto/rbnacl" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/34987859?s=100&v=4" alt="rbnacl" title="🧂 Ruby FFI binding to the Networking and Cryptography (NaCl) library (a.k.a. libsodium)" width="26" height="26" />
+        </a>
+        <!-- RubyMoney -->
+        <a href="https://rubymoney.github.io/money/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/351550?s=100&v=4" alt="RubyMoney" title="💸 A Ruby Library for dealing with money and currency conversion." width="26" height="26" />
+        </a><br>
+        <!-- rpush -->
+        <a href="https://github.com/rpush/rpush" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/3169839?s=100&v=4" alt="rpush" title="🔔 The push notification service for Ruby." width="26" height="26" />
+        </a>
+        <!-- noticed -->
+        <a href="https://github.com/excid3/noticed" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f514.png" alt="noticed" title="🛎️ Notifications for Ruby on Rails applications" width="26" height="26" />
+        </a><br>
+        <!-- airbrake -->
+        <a href="https://github.com/airbrake/airbrake" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1015434?s=100&v=4" alt="airbrake" title="✈️ The official Airbrake library for Ruby applications" width="26" height="26" />
+        </a>
+        <!-- exception_notification -->
+        <a href="https://github.com/smartinez87/exception_notification" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-facebook-96/1f6a8.png" alt="exception_notification" title="🚨 Exception Notifier Plugin for Rails" width="26" height="26" />
+        </a><br>
+    <!---- Analytics ---->
+        <!-- active_analytics -->
+        <a href="https://github.com/BaseSecrete/active_analytics" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/BaseSecrete/active_analytics/master/app/assets/images/active_analytics.png" alt="active_analytics" title="📊 First-party, privacy-focused traffic analytics for Ruby on Rails applications." width="26" height="26" />
+        </a>
+        <!-- rack-tracker -->
+        <a href="https://github.com/railslove/rack-tracker" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/1067?s=100&v=4" alt="rack-tracker" title="🐾 Tracking made easy: Don’t fool around with adding tracking and analytics partials to your app and concentrate on the things that matter." width="26" height="26" />
+        </a><br>
+    <!---- /Analytics ---->
+        <!-- rmagick -->
+        <a href="https://rmagick.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/12403326?s=100&v=4" alt="rmagick" title="🖼️ Ruby bindings for ImageMagick" width="26" height="26" />
+        </a>
+        <!-- mini_magick -->
+        <a href="https://rubydoc.info/gems/mini_magick" target="_blank" rel="noreferrer">
+          <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f3a9.png" alt="mini_magick" title="✨ Mini replacement for RMagick" width="26" height="26" />
+        </a>
+        <br>
+        <br>
         <!-- CoffeeScript -->
         <a href="https://coffeescript.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeescript.svg" alt="CoffeeScript" width="26" height="26" />
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeescript.svg" alt="CoffeeScript" title="☕ CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way." width="26" height="26" />
         </a>
         <!-- CoffeeLint -->
         <a href="https://coffeelint.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeelint.svg" alt="CoffeeLint" width="26" height="26" />
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_coffeelint.svg" alt="CoffeeLint" title="🤎 CoffeeLint is a style checker that helps keep CoffeeScript code clean and consistent. CoffeeScript does a great job at insulating programmers from many of JavaScript's bad parts, but it won't help enforce a consistent style across a code base. CoffeeLint can help with that." width="26" height="26" />
         </a><br>
+        <br>
+        <!-- komponent -->
+        <a href="http://komponent.io/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/34619698?s=100&v=4" alt="komponent" title="🧩 An opinionated way of organizing front-end code in Ruby on Rails, based on components" width="26" height="26" />
+        </a>
+        <!-- phlex -->
+        <a href="https://www.phlex.fun/" target="_blank" rel="noreferrer">
+          <img src="https://www.phlex.fun/assets/favicon/favicon-32x32.png" alt="phlex" title="💪 A framework for building object-oriented views in Ruby." width="26" height="26" />
+        </a><br>
+        <!-- view_component -->
+        <a href="https://viewcomponent.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/ViewComponent/view_component/gh-pages/docs/logo/viewcomponent-color-logomark.png" alt="view_component" title="👀 A framework for building reusable, testable & encapsulated view components in Ruby on Rails" width="26" height="26" />
+        </a>
+        <!-- railsdesigner -->
+        <a href="https://railsdesigner.com/docs/start/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/146185622?s=100&v=4" alt="railsdesigner" title="🎨 Rails Designer is a UI components library, built with ViewComponent, designed with Tailwind CSS and enhanced with Hotwire." width="26" height="26" />
+        </a><br>
+        <!-- react-on-rails -->
+        <a href="https://www.shakacode.com/react-on-rails/docs/" target="_blank" rel="noreferrer">
+          <img src="https://img.stackshare.io/service/8813/default_73da3555cdf70f16351de3e7632625071157dfd1.png" alt="react-on-rails" title="⚛️ Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React, enabling a better developer experience and faster client performance." width="26" height="26" />
+        </a>
+        <!-- hyperstack -->
+        <a href="https://hyperstack.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/hyperstack-org/hyperstack/edge/logos/hyperloop-logo-small-pink.png" alt="hyperstack" title="⚡ Hyperstack is a Ruby-based DSL and modern web toolkit for building spectacular, interactive web applications fast!" width="26" height="26" />
+        </a><br>
+        <br>
         <!-- ERB -->
         <a href="https://docs.ruby-lang.org/en/master/ERB.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_erb.svg" alt="ERB" width="26" height="26" />
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_erb.svg" alt="ERB" title="📘 ERB provides an easy to use but powerful templating system for Ruby. Using ERB, actual Ruby code can be added to any plain text document for the purposes of generating document information details and/or flow control" width="26" height="26" />
         </a>
-        <!-- Liquid -->
-        <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_liquid.svg" alt="Liquid" width="26" height="26" />
-        </a><br>
-        <!-- Haml -->
-        <a href="https://haml.info/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_haml.svg" alt="Haml" width="26" height="26" />
-        </a>
-        <!-- Slim -->
-        <a href="https://slim-template.github.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_slim.svg" alt="Slim" width="26" height="26" />
+        <!-- formtastic -->
+        <a href="https://github.com/formtastic/formtastic" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/6845884?s=100&v=4" alt="formtastic" title="📋 A Rails form builder plugin with semantically rich and accessible markup." width="26" height="26" />
         </a><br>
         <!-- Mustache -->
         <a href="https://github.com/mustache/mustache" target="_blank" rel="noreferrer">
           <img src="https://avatars.githubusercontent.com/u/197655?s=100&v=4" alt="Mustache" title="〰️ Logic-less Ruby templates" width="26" height="26" />
+        </a>
+        <!-- Liquid -->
+        <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_liquid.svg" alt="Liquid" title="💧 Liquid is an open-source template language created by Shopify and written in Ruby. It is the backbone of Shopify themes and is used to load dynamic content on storefronts." width="26" height="26" />
         </a><br>
+        <!-- Haml -->
+        <a href="https://haml.info/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_haml.svg" alt="Haml" title="🏹 Beautifully DRY, well-indented, clear markup: templating haiku." width="26" height="26" />
+        </a>
+        <!-- Slim -->
+        <a href="https://slim-template.github.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_slim.svg" alt="Slim" title="⚖️ A lightweight templating engine for Ruby" width="26" height="26" />
+        </a>
       </p>
     </td>
   </tr>
