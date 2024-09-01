@@ -283,7 +283,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
         <!-- devise -->
         <a href="https://github.com/heartcombo/devise" target="_blank" rel="noreferrer">
-          <img src="https://camo.githubusercontent.com/a9ded5331feae0f484d5f651ad3f9bb864a4299604aed4ef75209843f3c583e4/68747470733a2f2f7261772e6769746875622e636f6d2f6865617274636f6d626f2f6465766973652f6d61696e2f6465766973652e706e67" alt="devise" title="🛡️ Flexible authentication solution for Rails with Warden." width="26" height="26" />
+          <img src="https://raw.github.com/heartcombo/devise/main/devise.png" alt="devise" title="🛡️ Flexible authentication solution for Rails with Warden." width="26" height="26" />
         </a>
         <!-- Sorcery -->
         <a href="https://github.com/Sorcery/sorcery" target="_blank" rel="noreferrer">
@@ -416,7 +416,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
         </a>
         <!-- nokogiri -->
         <a href="https://nokogiri.org/" target="_blank" rel="noreferrer">
-          <img src="https://camo.githubusercontent.com/a2dac74238717e7ee0e33d8624297e2b7bb04312d80fe325ec2a1280922587d3/68747470733a2f2f6e6f6b6f676972692e6f72672f696d616765732f6e6f6b6f676972692d73657269662d626c61636b2e706e67" alt="nokogiri" title="⛩️ Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, and xerces." width="26" height="26" />
+          <img src="https://nokogiri.org/images/nokogiri-serif-black.png" alt="nokogiri" title="⛩️ Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a sensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is fast and standards-compliant by relying on native parsers like libxml2, libgumbo, and xerces." width="26" height="26" />
         </a>
         <!-- rswag -->
         <a href="https://github.com/rswag/rswag" target="_blank" rel="noreferrer">
