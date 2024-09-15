@@ -12,7 +12,7 @@
 </span>
 <br/>
 
-Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 years old** 👶 and **4 years of coding** 🧐.
+Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **20 years old** 👶 and **4 years of coding** 🧐.
 
 * 🌱 I’m currently studying at **ITMO University** 🎓
 * 💫 Always aiming at **usability** and **code performance** at all costs
@@ -127,6 +127,11 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **19 y
 
 <details>
 <summary><b>🤿 Reach deeper into the toolbox</b></summary>
+
+| :construction: WARNING          |
+|:---------------------------|
+| Section is under construction! |
+
 
 <table>
   <tr>
