@@ -1,29 +1,37 @@
-# Hello there 👋, I'm [nyapsilon](https://maxbarsukov.vercel.app)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
+<table align=center>
+  <tr>
+    <td align=center><a href="https://maxbarsukov.ru/" target="blank">
+      🌐<br/>maxbarsukov.ru
+    </a></td>
+    <td align=center><a href="https://github.com/maxbarsukov" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub: maxbarsukov" height="20" width="20" />
+      <br/>maxbarsukov
+    </a></td>
+    <td align=center><a href="https://linkedin.com/in/maxbarsukov" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: in/maxbarsukov" height="18" width="18" />
+      <br/>in/maxbarsukov
+    </a></td>
+    <td align=center><a href="https://t.me/maxbarsukov" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @maxbarsukov" height="20" width="20"/>
+      <br/>@maxbarsukov
+    </a></td>
+    <td align=center><a href="mailto:maxbarsukov@bk.ru" target="blank">
+      📧<br/>maxbarsukov@bk.ru
+    </a></td>
+  </tr>
+</table>
 
-### Get in touch: <span align="left">
-<a href="https://t.me/maxbarsukov" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" /></a>
-<a href="https://github.com/maxbarsukov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LinkedIn: maxbarsukov" height="22" width="30" /></a>
-<a href="mailto:maxbarsukov@bk.ru" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/seo-smart-pack/128/grey_new_seo-02-512.png" alt="Mail: maxbarsukov@bk.ru" height="24" width="20" /></a>
-<a href="https://linkedin.com/in/maxbarsukov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: maxbarsukov" height="20" width="30" /></a>
-<a href="https://vk.com/maxbarsukov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: maxbarsukov" height="25" width="30" /></a>
-<a href="https://twitter.com/nyapsilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: nyapsilon" height="20" width="30" /></a>
-<a href="https://discordapp.com/users/nyapsilon#7581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: maxbarsukov" height="22" width="30" /></a>
-<a href="https://stackoverflow.com/users/16836321/nyapsilon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow: 16836321" height="20" width="32" /></a>
-<a href="https://codeforces.com/profile/max2208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces: max2208" height="24" width="20" /></a>
-</span>
-<br/>
+<h3 align="center">👋 Hi! I'm Max Barsukov</h3>
 
-Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **20 years old** 👶 and **4 years of coding** 🧐.
+I'm a passionate self-taught developer from Russia 🇷🇺, 20 years old 👶 and 4 years of coding 🧐.
 
-* 🌱 I’m currently studying at **ITMO University** 🎓
-* 💫 Always aiming at **usability** and **code performance** at all costs
+* 🎓 I’m currently studying at ITMO University
+* 💫 Always aiming at usability and code performance at all costs
 * 👽 Learning any technology that appears on my way
-* 🛹 Also surfing on **programming language design**
-* 🔴 *Ruby* & *Rails* fan (a.k.a. evangelist)
-* 🔥 I'm an avid improver. Continuously learning how to make the world better!
-* 🏆 You can view my resume at [**cv.maxbarsukov.ru**](https://cv.maxbarsukov.ru/)
+* 🔡 Also surfing on programming language design
+* 🏆 I'm an avid improver. Continuously learning how to make the world better!
+* 📝 You can view my resume at [cv.maxbarsukov.ru](https://cv.maxbarsukov.ru/)
 * 💬 Ask me about anything in [issues](https://github.com/maxbarsukov/maxbarsukov/issues) under this repo
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -1561,9 +1569,7 @@ Hi, I'm **Max**, a passionate self-taught developer from Russia 🇷🇺, **20 y
 
 </details>
 
-
-<!-- ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github -->
-## View my stats on Github
+<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="15"/> View my stats on Github</h3>
 
 | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api?username=maxbarsukov&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&private=true&hide_border=true" alt="All Stats" /> | <img decoding="async" loading="lazy" align="center" src="https://github-readme-stats-3taejab4b-maxbarsukov.vercel.app/api/top-langs/?username=maxbarsukov&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" /> |
 | ------------- | ------------- |
