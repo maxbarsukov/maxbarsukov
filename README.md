@@ -1,21 +1,21 @@
 <table align=center>
   <tr>
-    <td align=center><a href="https://maxbarsukov.ru/" target="blank">
+    <td align=center><a href="https://maxbarsukov.ru/" target="_blank">
       🌐<br/>maxbarsukov.ru
     </a></td>
-    <td align=center><a href="https://github.com/maxbarsukov" target="blank">
+    <td align=center><a href="https://github.com/maxbarsukov" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub: maxbarsukov" height="20" width="20" />
       <br/>maxbarsukov
     </a></td>
-    <td align=center><a href="https://linkedin.com/in/maxbarsukov" target="blank">
+    <td align=center><a href="https://linkedin.com/in/maxbarsukov" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: in/maxbarsukov" height="18" width="18" />
       <br/>in/maxbarsukov
     </a></td>
-    <td align=center><a href="https://t.me/maxbarsukov" target="blank">
+    <td align=center><a href="https://t.me/maxbarsukov" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: @maxbarsukov" height="20" width="20"/>
       <br/>@maxbarsukov
     </a></td>
-    <td align=center><a href="mailto:maxbarsukov@bk.ru" target="blank">
+    <td align=center><a href="mailto:maxbarsukov@bk.ru" target="_blank">
       📧<br/>maxbarsukov@bk.ru
     </a></td>
   </tr>
