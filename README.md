@@ -19,7 +19,7 @@
 <h3 align="center">👋 Hi! I'm Max Barsukov</h3>
 
 I'm a passionate fullstack developer who has been putting bugs into software since 2019.\
-I’m currently studying at [ITMO University](https://en.itmo.ru/) on a bachelor's degree program «System and Application Software»
+Currently pursuing a bachelor’s degree in *System and Application Software* at [ITMO University](https://en.itmo.ru/).
 
 * 📝 You can view my resume at [cv.maxbarsukov.ru](https://cv.maxbarsukov.ru/)
 * 💬 Ask me about anything in [issues](https://github.com/maxbarsukov/maxbarsukov/issues) under this repo
