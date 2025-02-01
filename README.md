@@ -38,7 +38,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
 
 <table>
   <tr>
-    <td><b>Java</b></td>
+    <td align=center><b>Java</b></td>
     <td>
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="icons/java.svg" alt="Java" width="26" height="26" />
@@ -78,7 +78,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/gradle.svg" alt="Gradle" width="26" height="26" />
       </a>
     </td>
-    <td><b>Infrastructure</b></td>
+    <td align=center><b>Infrastructure</b></td>
     <td>
       <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
         <img src="icons/vagrant.png" alt="Vagrant" width="26" height="26" />
@@ -108,7 +108,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </td>
   </tr>
   <tr>
-    <td><b>Ruby</b></td>
+    <td align=center><b>Ruby</b></td>
     <td>
       <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
         <img src="icons/ruby.svg" alt="Ruby" width="26" height="26" />
@@ -129,7 +129,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/dry-rb.png" alt="dry-rb" width="26" height="26" />
       </a>
     </td>
-    <td><b>CI/CD</b></td>
+    <td align=center><b>CI/CD</b></td>
     <td>
       <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="icons/jenkins.svg" alt="Jenkins" width="26" height="26" />
@@ -146,7 +146,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong></td>
+    <td align=center><strong>Frontend</strong></td>
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="icons/javascript.svg" alt="JavaScript" width="26" height="26" />
@@ -186,7 +186,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/materialui.svg" alt="Material UI" width="26" height="26" />
       </a>
     </td>
-    <td><b>Observability</b></td>
+    <td align=center><b>Observability</b></td>
     <td>
       <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
         <img src="icons/elasticsearch.svg" alt="Elasticsearch" width="26" height="26" />
@@ -216,7 +216,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </td>
   </tr>
   <tr>
-    <td><strong>Databases</strong></td>
+    <td align=center><strong>Databases</strong></td>
     <td>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="icons/postgresql.svg" alt="PostgreSQL" width="26" height="26" />
@@ -237,7 +237,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/keydb.svg" alt="KeyDB" width="26" height="26" />
       </a>
     </td>
-    <td><b>Test Automation</b></td>
+    <td align=center><b>Test Automation</b></td>
     <td>
       <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="icons/selenium.png" alt="Selenium" width="26" height="26" />
@@ -254,7 +254,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </td>
   </tr>
   <tr>
-    <td><b>API</b></td>
+    <td align=center><b>API</b></td>
     <td>
       <a href="https://www.w3.org/2001/sw/wiki/REST" target="_blank" rel="noreferrer">
         <img src="icons/restapi.svg" alt="REST API" width="26" height="26" />
@@ -275,7 +275,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/openapi.svg" alt="OpenAPI" width="26" height="26" />
       </a>
     </td>
-    <td><strong>Other</strong></td>
+    <td align=center><strong>Other</strong></td>
     <td>
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="icons/nodejs.svg" alt="nodejs" width="26" height="26" />
@@ -302,7 +302,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </td>
   </tr>
   <tr>
-    <td><b>Middleware</b></td>
+    <td align=center><b>Middleware</b></td>
     <td>
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <picture>
@@ -343,7 +343,7 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
         <img src="icons/envoy.png" alt="Envoy" width="26" height="26" />
       </a>
     </td>
-    <td><strong>Tools</strong></td>
+    <td align=center><strong>Tools</strong></td>
     <td>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="icons/linux.svg" alt="Linux" width="26" height="26" />
