@@ -430,7 +430,17 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
     </tr>
     <tr>
       <td>
-        <img src="https://github-profile-trophy.vercel.app/?username=maxbarsukov&no-bg=true&margin-w=15&column=5&rank=-C,-B" />
+        <picture>
+          <source
+            srcset="https://github-profile-trophy.vercel.app/?username=maxbarsukov&no-bg=true&margin-w=15&theme=darkhub&column=5&rank=-C,-B"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-profile-trophy.vercel.app/?username=maxbarsukov&no-bg=true&margin-w=15&column=5&rank=-C,-B"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img decoding="async" loading="lazy" src="https://github-profile-trophy.vercel.app/?username=maxbarsukov&no-bg=true&margin-w=15&column=5&rank=-C,-B" alt="GitHub Stat Trophies" />
+        </picture>
       </td>
     </tr>
   </table>
