@@ -26,8 +26,8 @@ Currently pursuing a bachelor’s degree in *System and Application Software* at
 
 <h4>A few projects I've made:</h4>
 
-* [🍿 `MyFilmList`](https://github.com/maxbarsukov/MyFilmList) is a social networking app for tracking movies and series, allowing you to share thoughts and discover new favorites.
-* [🌱 `RadishDB`](https://github.com/maxbarsukov/radish-db) is an in-memory distributed key-value data store that prioritizes consistency over availability by implementing [Raft](https://raft.github.io/).
+* [🍿 `MyFilmList`](https://github.com/maxbarsukov/MyFilmList) is a social networking app for tracking movies, allowing you to share thoughts and discover new favorites.
+* [🌱 `RadishDB`](https://github.com/maxbarsukov/radish-db) is an in-memory distributed key-value store that prioritizes consistency over availability by implementing [Raft](https://raft.github.io/).
 * [🧙 `tollowy-api`](https://github.com/maxbarsukov/tollowy-api) is a REST API built for [**@Followy-Dev**](https://github.com/Followy-Dev) to update and improve the backend part of online social media.
 * [😴 `sleepy`](https://github.com/maxbarsukov/sleepy) provides a smart device designed to monitor sleep quality, that can wake you up during REM sleep stage.
 * [🦩 `waddle`](https://github.com/maxbarsukov/waddle) is a strongly-typed object-oriented toy programming language with type inference, inspired by Kotlin and Ruby.
